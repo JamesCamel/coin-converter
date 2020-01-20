@@ -1,6 +1,6 @@
 # Exchange Rate Chat bot
 
-A Facebook messenger bot based on a finite state machine to convert foreign currency and show diagram of instant rate of exchange 
+A Facebook messenger bot based on a finite state machine to convert foreign currency and show diagram of instant rate of exchange.
 
 
 ## Setup
